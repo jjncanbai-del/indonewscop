@@ -1,0 +1,6 @@
+trafilatura==1.7.0
+newspaper3k==0.2.8
+requests>=2.31.0
+python-dateutil>=2.9.0
+dateparser>=1.2.0
+pandas>=2.2.2
